@@ -1,5 +1,4 @@
 [
-	"$(querystring)",
 	[
 		"When trying to draw lines look at your destination, instead of your pointer or pencil that way the lines will be smoother than jagged."
 	],
