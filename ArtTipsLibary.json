@@ -1,12 +1,12 @@
 [
-"$(querystring)",
-[
-"Query string"
-],
-[
-""
-],
-[
-"https://en.wikipedia.org/wiki/Query_string"
-]
+	"$(querystring)",
+	[
+		"When trying to draw lines look at your destination, instead of your pointer or pencil that way the lines will be smoother than jagged."
+	],
+	[
+		"Tip 2"
+	],
+	[
+		"Tip 3"
+	]
 ]
